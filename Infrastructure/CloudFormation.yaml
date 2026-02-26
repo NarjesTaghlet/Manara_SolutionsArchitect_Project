@@ -224,7 +224,7 @@ Resources:
           TargetGroupArn: !Ref TargetGroup
 
 # ========================
-# AUTO SCALING (PRIVATE)
+# AUTO SCALING 
 # ========================
   ASG:
     Type: AWS::AutoScaling::AutoScalingGroup
