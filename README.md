@@ -62,7 +62,7 @@ See the architecture diagram in `/architecture`.
 The Auto Scaling Group uses Target Tracking Scaling based on:
 
 - Average CPU Utilization
-- Target: 50%
+- Target: 70%
 
 ---
 

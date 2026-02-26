@@ -252,7 +252,7 @@ Resources:
       TargetTrackingConfiguration:
         PredefinedMetricSpecification:
           PredefinedMetricType: ASGAverageCPUUtilization
-        TargetValue: 50
+        TargetValue: 70
 
 # ========================
 # SNS + CLOUDWATCH
