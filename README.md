@@ -14,7 +14,7 @@ This project demonstrates how to deploy a highly available and scalable web appl
 - Amazon SNS
 - (Optional) Amazon RDS Multi-AZ
 
-The infrastructure is provisioned using AWS CloudFormation.
+The infrastructure is provisioned using AWS CloudFormation : 
 
 ![Logo](architecture/Manara_Project.png)
 
