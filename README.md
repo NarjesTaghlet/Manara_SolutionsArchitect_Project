@@ -2,6 +2,7 @@
 
 ## 📌 Project Overview
 
+
 This project demonstrates how to deploy a highly available and scalable web application on AWS using:
 
 - Amazon EC2
@@ -14,6 +15,8 @@ This project demonstrates how to deploy a highly available and scalable web appl
 - (Optional) Amazon RDS Multi-AZ
 
 The infrastructure is provisioned using AWS CloudFormation.
+
+![Logo](architecture/Manara_Project.png)
 
 ---
 
@@ -79,8 +82,4 @@ The Auto Scaling Group uses Target Tracking Scaling based on:
 
 ---
 
-## 🎓 Manara Graduation Project – Solutions Architect Track
-
-This project was developed as part of the **Manara Solutions Architect Graduate Program**.  
-It demonstrates the practical implementation of core AWS architectural principles, including high availability, scalability, security, monitoring, and Infrastructure as Code.
 
