@@ -79,10 +79,8 @@ The Auto Scaling Group uses Target Tracking Scaling based on:
 
 ---
 
-## 🎓 Learning Outcomes
+## 🎓 Manara Graduation Project – Solutions Architect Track
 
-- Designing highly available AWS architectures
-- Implementing Auto Scaling strategies
-- Using Infrastructure as Code (CloudFormation)
-- Applying security best practices
-- Monitoring and alerting in AWS
+This project was developed as part of the **Manara Solutions Architect Graduate Program**.  
+It demonstrates the practical implementation of core AWS architectural principles, including high availability, scalability, security, monitoring, and Infrastructure as Code.
+

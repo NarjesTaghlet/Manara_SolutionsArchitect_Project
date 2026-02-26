@@ -1,5 +1,5 @@
 AWSTemplateFormatVersion: '2010-09-09'
-Description: Correct Production Architecture - ALB Public, EC2 Private, NAT Public
+Description: Scalable Web Application with ALB and Auto Scaling
 
 Parameters:
 
