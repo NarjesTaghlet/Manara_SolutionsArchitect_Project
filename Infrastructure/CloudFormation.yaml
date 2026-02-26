@@ -254,7 +254,7 @@ Resources:
           PredefinedMetricType: ASGAverageCPUUtilization
         TargetValue: 70
 
-# ========================
+# ==============
 # SNS + CLOUDWATCH
 # ========================
   SNSTopic:
