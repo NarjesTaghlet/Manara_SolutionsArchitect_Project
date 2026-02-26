@@ -2,6 +2,7 @@
 
 ## 📌 Project Overview
 
+
 This project demonstrates how to deploy a highly available and scalable web application on AWS using:
 
 - Amazon EC2
@@ -14,6 +15,8 @@ This project demonstrates how to deploy a highly available and scalable web appl
 - (Optional) Amazon RDS Multi-AZ
 
 The infrastructure is provisioned using AWS CloudFormation.
+
+<img width="4313" height="3263" alt="Manara_Project" src="https://github.com/user-attachments/assets/b6e5b286-a5b2-4922-934c-0568bd685b26" />
 
 ---
 
